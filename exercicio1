@@ -12,6 +12,12 @@ git add nome do arquivo
 --comitar o arquivo depois de adicionado
 git commit -m "add nome do arquivo"
 
+--comitar e adicionar o arquivo ao mesmo tempo 
+git commit -am "add descrição da alteração"
+
+-- para ver o status dos commits
+git log 
+git log --decorate
 
 
 
