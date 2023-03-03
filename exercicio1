@@ -19,6 +19,9 @@ git commit -am "add descrição da alteração"
 git log 
 git log --decorate
 
+ -- testando o comando git reset --soft
+ git reset --soft
+
 
 
 
